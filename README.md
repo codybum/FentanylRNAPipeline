@@ -1,7 +1,6 @@
 # FentanylRNAPipeline
 
-## Process
-Process:
+## Pipline Processes
 1. FastQC is used to check fastq quality
 2. Reference Index is generated 
 3. Alignment is conducted
