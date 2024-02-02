@@ -2,11 +2,11 @@
 
 ## Process
 Process:
-1 FastQC is used to check fastq quality
-2 Reference Index is generated 
-3 Alignment is conducted
-4 BAM files were processed for read summarization using featureCounts 
-5 Processed data were then analyzed for differential expression using DESeq2 in R software. (see attached DESeq.R)
+1. FastQC is used to check fastq quality
+2. Reference Index is generated 
+3. Alignment is conducted
+4. BAM files were processed for read summarization using featureCounts 
+5. Processed data were then analyzed for differential expression using DESeq2 in R software. (see attached DESeq.R)
 
 ## FastQC
 * Action: Generate QC information for each fastq file
